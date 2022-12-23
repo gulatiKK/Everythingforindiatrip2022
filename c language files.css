@@ -1,0 +1,13 @@
+.links, .button{
+    text-decoration: none;
+    color: black;
+    padding: 30px;
+}
+
+.button:hover{
+    background-color: red;
+}
+
+.button{
+    padding: 100px;
+}
